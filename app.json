@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "ZooKids",
+    "slug": "Zoo10",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/A.jpg",
+    "userInterfaceStyle": "black",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/A.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/A.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.zchuker.ZooKids"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "efa8844b-8661-4a82-942a-3a1b8c75285f"
+      }
+    }
+  }
+}
